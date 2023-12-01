@@ -1,4 +1,3 @@
-import pandas as pd
 
 def read_file(file_name):
     try:
