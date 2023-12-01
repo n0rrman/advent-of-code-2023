@@ -7,7 +7,7 @@ This repository serves as a mono repository for the [Advent of Code 2023](https:
 <!--✅ ❌ -->
 
 | Task Number | Completed | Repository |
-|-------------|-----------||-----------|
+|-------------|-----------|-----------|
 | [01](https://adventofcode.com/2023/day/1) | ✅ | [advent-of-code-2023/01](https://github.com/n0rrman/advent-of-code-2023/tree/main/01) |
 | [02](https://adventofcode.com/2023/day/2) | ❌ | [advent-of-code-2023/02](https://github.com/n0rrman/advent-of-code-2023/tree/main/02) |
 | [03](https://adventofcode.com/2023/day/3) | ❌ | [advent-of-code-2023/03](https://github.com/n0rrman/advent-of-code-2023/tree/main/03) |
