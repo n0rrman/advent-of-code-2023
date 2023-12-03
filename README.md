@@ -10,7 +10,7 @@ This repository serves as a mono repository for the [Advent of Code 2023](https:
 |-------------|-----------|-|----------|
 | [01](https://adventofcode.com/2023/day/1) | ✅ | Native Python using loops | [advent-of-code-2023/01](https://github.com/n0rrman/advent-of-code-2023/tree/main/01) |
 | [02](https://adventofcode.com/2023/day/2) | ✅ | Native Python using loops | [advent-of-code-2023/02](https://github.com/n0rrman/advent-of-code-2023/tree/main/02) |
-| [03](https://adventofcode.com/2023/day/3) | ❌ | | [advent-of-code-2023/03](https://github.com/n0rrman/advent-of-code-2023/tree/main/03) |
+| [03](https://adventofcode.com/2023/day/3) | ✅ | Mostly native Python with NumPy matrices | [advent-of-code-2023/03](https://github.com/n0rrman/advent-of-code-2023/tree/main/03) |
 | [04](https://adventofcode.com/2023/day/4) | ❌ | | [advent-of-code-2023/04](https://github.com/n0rrman/advent-of-code-2023/tree/main/04) |
 | [05](https://adventofcode.com/2023/day/5) | ❌ | | [advent-of-code-2023/05](https://github.com/n0rrman/advent-of-code-2023/tree/main/05) |
 | [06](https://adventofcode.com/2023/day/6) | ❌ | | [advent-of-code-2023/06](https://github.com/n0rrman/advent-of-code-2023/tree/main/06) |
