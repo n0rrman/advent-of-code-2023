@@ -15,7 +15,7 @@ This repository serves as a mono repository for the [Advent of Code 2023](https:
 | [05](https://adventofcode.com/2023/day/5) | ✅ | NumPy | [advent-of-code-2023/05](https://github.com/n0rrman/advent-of-code-2023/tree/main/05) |
 | [06](https://adventofcode.com/2023/day/6) | ✅ | Numerically with pandas | [advent-of-code-2023/06](https://github.com/n0rrman/advent-of-code-2023/tree/main/06) |
 | [07](https://adventofcode.com/2023/day/7) | ✅ | pandas and maps | [advent-of-code-2023/07](https://github.com/n0rrman/advent-of-code-2023/tree/main/07) |
-| [08](https://adventofcode.com/2023/day/8) | ❌ | | [advent-of-code-2023/08](https://github.com/n0rrman/advent-of-code-2023/tree/main/08) |
+| [08](https://adventofcode.com/2023/day/8) | ✅ | NetworkX to find existing paths, LCM to calc when cycles are synced | [advent-of-code-2023/08](https://github.com/n0rrman/advent-of-code-2023/tree/main/08) |
 | [09](https://adventofcode.com/2023/day/9) | ❌ | | [advent-of-code-2023/09](https://github.com/n0rrman/advent-of-code-2023/tree/main/09) |
 | [10](https://adventofcode.com/2023/day/10) | ❌ | | [advent-of-code-2023/10](https://github.com/n0rrman/advent-of-code-2023/tree/main/10) |
 | [11](https://adventofcode.com/2023/day/11) | ❌ | | [advent-of-code-2023/11](https://github.com/n0rrman/advent-of-code-2023/tree/main/11) |
