@@ -18,7 +18,7 @@ This repository serves as a mono repository for the [Advent of Code 2023](https:
 | [08](https://adventofcode.com/2023/day/8) | ✅ | NetworkX to find existing paths, LCM to calc when cycles are synced | [advent-of-code-2023/08](https://github.com/n0rrman/advent-of-code-2023/tree/main/08) |
 | [09](https://adventofcode.com/2023/day/9) | ✅ | Recursion | [advent-of-code-2023/09](https://github.com/n0rrman/advent-of-code-2023/tree/main/09) |
 | [10](https://adventofcode.com/2023/day/10) | ✅ | NetworkX | [advent-of-code-2023/10](https://github.com/n0rrman/advent-of-code-2023/tree/main/10) |
-| [11](https://adventofcode.com/2023/day/11) | ❌ | | [advent-of-code-2023/11](https://github.com/n0rrman/advent-of-code-2023/tree/main/11) |
+| [11](https://adventofcode.com/2023/day/11) | ✅ | NumPy, manhattan distance, numerically expansions | [advent-of-code-2023/11](https://github.com/n0rrman/advent-of-code-2023/tree/main/11) |
 | [12](https://adventofcode.com/2023/day/12) | ❌ | | [advent-of-code-2023/12](https://github.com/n0rrman/advent-of-code-2023/tree/main/12) |
 | [13](https://adventofcode.com/2023/day/13) | ❌ | |  [advent-of-code-2023/13](https://github.com/n0rrman/advent-of-code-2023/tree/main/13) |
 | [14](https://adventofcode.com/2023/day/14) | ❌ | |  [advent-of-code-2023/14](https://github.com/n0rrman/advent-of-code-2023/tree/main/14) |
