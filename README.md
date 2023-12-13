@@ -20,7 +20,7 @@ This repository serves as a mono repository for the [Advent of Code 2023](https:
 | [10](https://adventofcode.com/2023/day/10) | ✅ | NetworkX | [advent-of-code-2023/10](https://github.com/n0rrman/advent-of-code-2023/tree/main/10) |
 | [11](https://adventofcode.com/2023/day/11) | ✅ | NumPy, manhattan distance, numerically expansions | [advent-of-code-2023/11](https://github.com/n0rrman/advent-of-code-2023/tree/main/11) |
 | [12](https://adventofcode.com/2023/day/12) | ❌ | | [advent-of-code-2023/12](https://github.com/n0rrman/advent-of-code-2023/tree/main/12) |
-| [13](https://adventofcode.com/2023/day/13) | ❌ | |  [advent-of-code-2023/13](https://github.com/n0rrman/advent-of-code-2023/tree/main/13) |
+| [13](https://adventofcode.com/2023/day/13) | ✅ | NumPy |  [advent-of-code-2023/13](https://github.com/n0rrman/advent-of-code-2023/tree/main/13) |
 | [14](https://adventofcode.com/2023/day/14) | ❌ | |  [advent-of-code-2023/14](https://github.com/n0rrman/advent-of-code-2023/tree/main/14) |
 | [15](https://adventofcode.com/2023/day/15) | ❌ | |  [advent-of-code-2023/15](https://github.com/n0rrman/advent-of-code-2023/tree/main/15) |
 | [16](https://adventofcode.com/2023/day/16) | ❌ | |  [advent-of-code-2023/16](https://github.com/n0rrman/advent-of-code-2023/tree/main/16) |
