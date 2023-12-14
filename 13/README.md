@@ -136,4 +136,4 @@ Your puzzle answer was `37478`.
 
 
 
-[31th of December](https://adventofcode.com/2023/day/13)
+[13th of December](https://adventofcode.com/2023/day/13)
