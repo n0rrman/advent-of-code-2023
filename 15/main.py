@@ -34,6 +34,7 @@ def calc_part_two(data):
     for part in data:
         rm = part.find('-')
         eq = part.find('=')
+        
         if rm > 0:
             id, val = part.split('-')
             hash = calc_hash(id)
@@ -41,23 +42,19 @@ def calc_part_two(data):
                 focus_map[hash].pop(id)  
             except:
                 pass
+
         if eq > 0:
             id, val = part.split('=')
             hash = calc_hash(id)
-            focus_map.setdefault(hash, {})[id] = val 
-        
-        # print(id, val)
+            focus_map.setdefault(hash, {})[id] = int(val)  
 
-    # x = [[[x] for x in values] for key, values in focus_map.items()]
-
-    # print(x)
     focusing_power = 0
-    for x,y in focus_map.items():
-        for idx, (i, j) in enumerate(y.items()):
-            print(x+1, idx+1, j)
-            focusing_power += (int(x)+1) * (int(idx)+1) * int(j)
+    for box_num, box_vals in focus_map.items():
+        for slot_num, (_, focal_length) in enumerate(box_vals.items()):
+            focusing_power += (box_num+1) * (slot_num+1) * focal_length
+
     return focusing_power
-    
+
 def main():
     input = read_file('input.txt')
     data = process_input(input)
