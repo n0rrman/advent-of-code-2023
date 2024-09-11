@@ -22,8 +22,8 @@ This repository serves as a mono repository for the [Advent of Code 2023](https:
 | [12](https://adventofcode.com/2023/day/12) | ❌ | | [advent-of-code-2023/12](https://github.com/n0rrman/advent-of-code-2023/tree/main/12) |
 | [13](https://adventofcode.com/2023/day/13) | ✅ | NumPy |  [advent-of-code-2023/13](https://github.com/n0rrman/advent-of-code-2023/tree/main/13) |
 | [14](https://adventofcode.com/2023/day/14) | ❌ | |  [advent-of-code-2023/14](https://github.com/n0rrman/advent-of-code-2023/tree/main/14) |
-| [15](https://adventofcode.com/2023/day/15) | ❌ | |  [advent-of-code-2023/15](https://github.com/n0rrman/advent-of-code-2023/tree/main/15) |
-| [16](https://adventofcode.com/2023/day/16) | ❌ | |  [advent-of-code-2023/16](https://github.com/n0rrman/advent-of-code-2023/tree/main/16) |
+| [15](https://adventofcode.com/2023/day/15) | ✅ | Python dictionaries |  [advent-of-code-2023/15](https://github.com/n0rrman/advent-of-code-2023/tree/main/15) |
+| [16](https://adventofcode.com/2023/day/16) | ✅ | Cached recursion |  [advent-of-code-2023/16](https://github.com/n0rrman/advent-of-code-2023/tree/main/16) |
 | [17](https://adventofcode.com/2023/day/17) | ❌ | |  [advent-of-code-2023/17](https://github.com/n0rrman/advent-of-code-2023/tree/main/17) |
 | [18](https://adventofcode.com/2023/day/18) | ❌ |  | [advent-of-code-2023/18](https://github.com/n0rrman/advent-of-code-2023/tree/main/18) |
 | [19](https://adventofcode.com/2023/day/19) | ❌ |  | [advent-of-code-2023/19](https://github.com/n0rrman/advent-of-code-2023/tree/main/19) |
